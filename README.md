@@ -28,7 +28,7 @@ The project contains:
   - 01.01.-ag-cluster-classification.ipynb - all code and work is done within this notebook
 - src folder:
   - data:
-    - raw data - the raw files as downloaded from Udacity:
+    - raw data - the raw files as downloaded from Udacity, but are not presented in the current repository, because they are too big:
 
   --- Udacity_AZDIAS_052018.csv: Demographics data for the general population of Germany; 891 211 persons (rows) x 366 features (columns).<br>
   --- Udacity_CUSTOMERS_052018.csv: Demographics data for customers of a mail-order company; 191 652 persons (rows) x 369 features (columns).<br>
@@ -39,6 +39,9 @@ The project contains:
 
     - processed data - the files processed throughtout the different steps of the project.
 
+  - models:
+  --- gbmclassifier.pkl - the final classification model
+  --- gbc_pred.csv - output of the classification task - the probabilities of becoming a client for each individual from the test set.
 
 ## How to Interact with your project/Results
 The output of the Clustering part of the analysis are the clusters the general population is divided into based on its demographic characteristics, as well as information to which clusters the customers of the company belong to.
