@@ -50,7 +50,8 @@ The output of the Clustering part of the analysis are the clusters the general p
 The final output of Classification part of the analysis is a csv file with probabilities how likely for each individual from the test dataset is to become a customer to the company. 
 
 
-The blog post for the analysis can be found here: https://medium.com/@asya.gadz/a-study-on-airbnb-boston-data-410940343dd8
+The blog post for the analysis can be found here: https://medium.com/@asya.gadz/customer-segmentation-report-and-classification-based-for-arvato-financial-services-c3069a6daf5e
+
 
 ## Licensing, Authors, Acknowledgements, etc.
 I have used some functions or code that is from Feature Engineering course & Feature Selection course from Udemy, lead by Soledad Galli.
