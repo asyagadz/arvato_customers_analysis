@@ -40,6 +40,7 @@ The project contains:
     - processed data - the files processed throughtout the different steps of the project.
 
   - models:
+
   --- gbmclassifier.pkl - the final classification model
   --- gbc_pred.csv - output of the classification task - the probabilities of becoming a client for each individual from the test set.
 
